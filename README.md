@@ -1,5 +1,5 @@
-##Javascript Building Blocks
+** Javascript Building Blocks **
 
-#Checklist
+# Checklist
 
 Basic programming knowledge
