@@ -70,6 +70,20 @@ window.alert() //Alert box
 
 ## Reserved words
 
+Javascript statements usually start with a keyword/reserved word.
+
+Reserved words cannot be used as names of variables.
+
 Check the list of reserved words here [W3Schools](https://www.w3schools.com/js/js_reserved.asp)
+
+## Comments
+
+Any text inbetween comments is ignored
+
+```` // Single line comment ````
+
+```` /*  Multiple line commeont ````
+
+
 
 
