@@ -10,7 +10,7 @@ Lets get started
 
 ````
 
-Key concepts
+## Key concepts
 
 > Javascript is case sensitive
 
@@ -26,4 +26,4 @@ var NAME = "Mkhululi"
 
 ````
 
-** Changing HTML Content
+## Changing HTML Content
