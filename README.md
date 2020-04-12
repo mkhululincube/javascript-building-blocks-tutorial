@@ -82,7 +82,7 @@ Any text inbetween comments is ignored
 
 ```` // Single line comment ````
 
-```` /*  Multiple line commeont ````
+```` /*  Multiple line comments */ ````
 
 
 
