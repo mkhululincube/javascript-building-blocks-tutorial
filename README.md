@@ -84,6 +84,28 @@ Any text inbetween comments is ignored
 
 ```` /*  Multiple line comments */ ````
 
+## Data types
+
+```` var x = 5 //  Number ````
+```` var name = "Mkhululi Cooper" //  String````
+```` var address = {street:12,city:"dubai"} //  Object````
+
+## Arrays
+
+Array indexes are zero based meaning the first item is [0] and second item [1]
+
+```` var products = ["samsung","nokia","iphone"] ````
+
+
+## Objects
+
+Written with curly braces {}
+
+Written as name, value pairs and seperated by commas as seen below.
+
+```` var address = {street:12,city:"dubai"} //  Object ````
+
+
 
 
 
