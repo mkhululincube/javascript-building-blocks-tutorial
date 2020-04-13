@@ -111,9 +111,7 @@ Block of code that performs a particular tasks.
 
 For a function to perform its duty it has to be called.
 
-```` function products (parameter1, parameter2) {
-return parameter1 + parameter2;
-} ````
+```` function products (parameter1, parameter2) { return parameter1 + parameter2; } ````
 
 When the javascrpt reaches return statement the function will stop executing
 
