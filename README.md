@@ -1,8 +1,6 @@
 # Javascript Building Blocks
 
-Checklist
-
-Basic programming knowledge
+Basic programming knowledge is required
 
 ```
 
