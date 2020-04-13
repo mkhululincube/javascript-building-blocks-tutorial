@@ -105,6 +105,51 @@ Written as name, value pairs and seperated by commas as seen below.
 
 ```` var address = {street:12,city:"dubai"} //  Object ````
 
+## Functions
+
+Block of code that performs a particular tasks.
+
+For a function to perform its duty it has to be called.
+
+```` function products (parameter1, parameter2) {
+return parameter1 + parameter2;
+} ````
+
+When the javascrpt reaches return statement the function will stop executing
+
+> () invokes/call the function
+
+
+Function can be used as a variable as seen below:
+
+var name = shoppername("Mkhululi Cooper");
+
+
+##Events
+
+Javascript react to events
+
+#### Example of events
+
+> Page finished loading
+
+> Button clicked
+
+> Input field changed
+
+JavaScript lets you execute code when events are detected.
+
+```` <button onclick="document.getElementById('name').innerHTML = getName()"></button>````
+
+> onchange - HTML element has been changed
+> onclick - User clicks an HTML element
+> onmouseover - User moves the mouse over an HTML element
+> onmouseout - User moves the mouse away from an HTML element
+> onkeydown - User pushes a keyboard key
+> onload - Browser has finished loading the page
+
+
+
 
 
 
