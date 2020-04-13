@@ -145,6 +145,8 @@ JavaScript lets you execute code when events are detected.
 > onload - Browser has finished loading the page
 
 
+The tutorial is available on [medium](https://medium.com/@relieved_pink_skunk_472/javascript-building-blocks-tutorial-378b65c7f1a7)
+
 
 
 
