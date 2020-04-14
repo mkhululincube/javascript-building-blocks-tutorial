@@ -42,7 +42,7 @@ Javascript is inserted between <script></script> tags (Inline Javascript)
 
 You can also import Javascript from a js file by referring to it as seen below :
 
-<script src="jsfile.js"></script>
+```` <script src="jsfile.js"></script> ````
 
 
 > Please note that adding scripts at the bottom of the <body> element improves the display speed, 
@@ -50,10 +50,10 @@ because script interpretation slows down the display
 
 ## Displaying Javascript in a page
 
-document.write() //for testing
-console.log() // for debugging
-innerHTML // To access html element
-window.alert() //Alert box
+```` document.write() //for testing
+     console.log() // for debugging
+     innerHTML // To access html element
+     window.alert() //Alert box ````
 
 ## Syntax
 
